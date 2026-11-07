@@ -13,13 +13,15 @@
     <widget name="config" position="780,100" size="1110,912" itemHeight="38" font="Regular;28" transparent="1" scrollbarMode="showOnDemand" />
   </screen>
   <screen name="PartnerboxEntriesListConfigScreen" position="fill" flags="wfNoBorder">
-    <panel name="PigTemplate" />
-    <panel name="KeyPrevNextTemplate_Hideable" />
-    <widget name="name" position="780,105" size="150,36" font="Regular;30" halign="left" backgroundColor="secondBG" transparent="1" />
-    <widget name="ip" position="960,105" size="225,36" font="Regular;30" halign="left" backgroundColor="secondBG" transparent="1" />
-    <widget name="port" position="1185,105" size="150,36" font="Regular;30" halign="left" backgroundColor="secondBG" transparent="1" />
-    <widget name="type" position="1395,105" size="300,36" font="Regular;30" halign="left" backgroundColor="secondBG" transparent="1" />
-    <widget name="entrylist" position="780,165" size="1110,836" scrollbarMode="showOnDemand" backgroundColor="secondBG" transparent="1" />
+    <panel name="PigTemplate"/>
+    <panel name="KeyVideoTemplate"/>
+    <panel name="KeyMenuInfoTemplate"/>
+    <panel name="KeyPrevNextTemplate_Hideable"/>
+    <widget name="name" position="780,105" size="150,36" font="Regular;30" halign="left" backgroundColor="secondBG" transparent="1"/>
+    <widget name="ip" position="960,105" size="225,36" font="Regular;30" halign="left" backgroundColor="secondBG" transparent="1"/>
+    <widget name="port" position="1185,105" size="150,36" font="Regular;30" halign="left" backgroundColor="secondBG" transparent="1"/>
+    <widget name="type" position="1395,105" size="300,36" font="Regular;30" halign="left" backgroundColor="secondBG" transparent="1"/>
+    <widget name="entrylist" position="780,165" size="1110,836" scrollbarMode="showOnDemand" backgroundColor="secondBG" transparent="1"/>
   </screen>
   <screen name="PartnerboxSetup" position="fill" flags="wfNoBorder">
     <panel name="PigTemplate" />

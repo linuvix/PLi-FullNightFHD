@@ -10,43 +10,43 @@
     <resolution bpp="32" xres="1920" yres="1080"/>
   </output>
   <fonts>
-    <font name="Regular" filename="LiberationSans-Regular.ttf" scale="100"/>
-    <font name="LCD" filename="lcd.ttf" scale="100"/>
-    <font name="Console" filename="tuxtxt.ttf" scale="100"/>
-    <font name="Fixed" filename="andale.ttf" scale="100"/>
-    <font name="DejaVuSans" filename="DejaVuSans.ttf" scale="100"/>
-    <alias name="ChoiceList" font="Regular" size="28" height="38"/>
-    <alias name="TextNormal" font="Regular" size="28" height="38"/>
-    <alias name="ChoiceBoxDescription" font="Regular" size="22" height="25"/>
-    <alias name="FileList" font="Regular" size="28" height="38"/>
-    <alias name="FileListMulti" font="Regular" size="28" height="38"/>
-    <alias name="PluginBrowser0" font="Regular" size="32" height="76"/>
-    <alias name="PluginBrowser1" font="Regular" size="22"/>
-    <alias name="ServiceInfo" font="Regular" size="30" height="45"/>
-    <alias name="SelectionList" font="Regular" size="30" height="45"/>
-    <alias name="ImsSelectionList" font="Regular" size="28" height="30"/>
-    <alias name="PartnerBoxEntryList0" font="Regular" size="28" height="38"/>
-    <alias name="PartnerBoxEntryList1" font="Regular" size="28"/>
-    <alias name="PartnerBoxE2TimerMenu0" font="Regular" size="32" height="114"/>
-    <alias name="PartnerBoxE2TimerMenu1" font="Regular" size="28"/>
-    <alias name="PartnerBoxBouquetList0" font="Regular" size="32" height="45"/>
-    <alias name="PartnerBoxBouquetList1" font="Regular" size="28"/>
-    <alias name="PartnerBoxChannelList0" font="Regular" size="32" height="114"/>
-    <alias name="PartnerBoxChannelList1" font="Regular" size="28"/>
-    <alias name="PartnerBoxChannelEPGList0" font="Regular" size="32" height="38"/>
-    <alias name="PartnerBoxChannelEPGList1" font="Regular" size="24"/>
-    <alias name="VirtualKeyBoard" font="DejaVuSans" size="42" height="68"/>
-    <alias name="HelpMenuList" font="Regular" size="30" height="45"/>
-    <alias name="HelpMenuListExt0" font="Regular" size="32" height="75"/>
-    <alias name="HelpMenuListExt1" font="Regular" size="28"/>
-    <alias name="Dreamexplorer" font="Regular" size="30" height="45"/>
-    <alias name="PlayList" font="Regular" size="28" height="38"/>
-    <alias name="AutotimerList" font="Regular" size="22" height="25"/>
-    <alias name="AutotimerListExt0" font="Regular" size="28"/>
-    <alias name="AutotimerListExt1" font="Regular" size="22" height="95"/>
-    <alias name="FcZipArchiver" font="Fixed" size="26" height="45"/>
     <alias name="AutomaticVolumeAdjustment0" font="Regular" size="28"/>
     <alias name="AutomaticVolumeAdjustment1" font="Regular" size="28"/>
+    <alias name="AutotimerListExt0" font="Regular" size="28"/>
+    <alias name="AutotimerListExt1" font="Regular" size="22" height="95"/>
+    <alias name="AutotimerList" font="Regular" size="22" height="25"/>
+    <alias name="ChoiceBoxDescription" font="Regular" size="22" height="25"/>
+    <alias name="ChoiceList" font="Regular" size="28" height="38"/>
+    <alias name="Dreamexplorer" font="Regular" size="30" height="45"/>
+    <alias name="FcZipArchiver" font="Fixed" size="26" height="45"/>
+    <alias name="FileList" font="Regular" size="28" height="38"/>
+    <alias name="FileListMulti" font="Regular" size="28" height="38"/>
+    <alias name="HelpMenuListExt0" font="Regular" size="32" height="75"/>
+    <alias name="HelpMenuListExt1" font="Regular" size="28"/>
+    <alias name="HelpMenuList" font="Regular" size="30" height="45"/>
+    <alias name="ImsSelectionList" font="Regular" size="28" height="30"/>
+    <alias name="PartnerBoxBouquetList0" font="Regular" size="32" height="45"/>
+    <alias name="PartnerBoxBouquetList1" font="Regular" size="28"/>
+    <alias name="PartnerBoxChannelEPGList0" font="Regular" size="32" height="38"/>
+    <alias name="PartnerBoxChannelEPGList1" font="Regular" size="24"/>
+    <alias name="PartnerBoxChannelList0" font="Regular" size="32" height="114"/>
+    <alias name="PartnerBoxChannelList1" font="Regular" size="28"/>
+    <alias name="PartnerBoxE2TimerMenu0" font="Regular" size="32" height="114"/>
+    <alias name="PartnerBoxE2TimerMenu1" font="Regular" size="28"/>
+    <alias name="PartnerBoxEntryList0" font="Regular" size="28" height="38"/>
+    <alias name="PartnerBoxEntryList1" font="Regular" size="28"/>
+    <alias name="PlayList" font="Regular" size="28" height="38"/>
+    <alias name="PluginBrowser0" font="Regular" size="32" height="76"/>
+    <alias name="PluginBrowser1" font="Regular" size="22"/>
+    <alias name="SelectionList" font="Regular" size="30" height="45"/>
+    <alias name="ServiceInfo" font="Regular" size="30" height="45"/>
+    <alias name="TextNormal" font="Regular" size="28" height="38"/>
+    <alias name="VirtualKeyBoard" font="DejaVuSans" size="42" height="68"/>
+    <font name="Console" filename="tuxtxt.ttf" scale="100"/>
+    <font name="DejaVuSans" filename="DejaVuSans.ttf" scale="100"/>
+    <font name="Fixed" filename="andale.ttf" scale="100"/>
+    <font name="LCD" filename="lcd.ttf" scale="100"/>
+    <font name="Regular" filename="LiberationSans-Regular.ttf" scale="100"/>
   </fonts>
   <!-- Colors -->
   <colors>
@@ -55,24 +55,24 @@
     <color name="#25062748" value="#25062748"/>
     <color name="#254f7497" value="#254f7497"/>
     <color name="#7f000000" value="#7f000000"/>
-    <color name="#dddddd" value="#00dddddd"/>
-    <color name="#e5b243" value="#00e5b243"/>
-    <color name="#eeeeee" value="#00eeeeee"/>
-    <color name="#ffffff" value="#00ffffff"/>
     <color name="background" value="#20000000"/>
     <color name="basictemplatecolor" value="#00000000"/>
     <color name="black" value="#00000000"/>
-    <color name="blue" value="#00879ce1"/>
     <color name="bluetransparent" value="#08001e4b"/>
-    <color name="cyan" value="#003798ad"/>
+    <color name="blue" value="#00879ce1"/>
     <color name="cyan2" value="#0039b6d1"/>
     <color name="cyan3" value="#0084b2bd"/>
-    <color name="dark" value="#00242424"/>
+    <color name="cyan" value="#003798ad"/>
     <color name="darkgrey" value="#00555556"/>
+    <color name="dark" value="#00242424"/>
+    <color name="#dddddd" value="#00dddddd"/>
+    <color name="#e5b243" value="#00e5b243"/>
+    <color name="#eeeeee" value="#00eeeeee"/>
     <color name="fallback" value="#00b0b0c0"/>
+    <color name="#ffffff" value="#00ffffff"/>
     <color name="foreground" value="#00f0f0f0"/>
-    <color name="green" value="#0056c856"/>
     <color name="greentransparent" value="#08004c00"/>
+    <color name="green" value="#0056c856"/>
     <color name="grey" value="#00b6b6b6"/>
     <color name="infobarBG" value="#41080808"/>
     <color name="listbox" value="#000f56a4"/>
@@ -80,14 +80,14 @@
     <color name="noTransBG" value="#00101214"/>
     <color name="orange" value="#00ffc000"/>
     <color name="rds_text_bg" value="#00003258"/>
-    <color name="red" value="#00ff4a3c"/>
     <color name="redtransparent" value="#084c0000"/>
+    <color name="red" value="#00ff4a3c"/>
     <color name="rssviewtop" value="#00005050"/>
     <color name="secondBG" value="#18101214"/>
     <color name="secondFG" value="#00f9c731"/>
     <color name="selectedBG" value="#06303240"/>
-    <color name="selectedFG" value="#00fcc000"/>
     <color name="selectedFGEvent" value="#00f0f0f0"/>
+    <color name="selectedFG" value="#00fcc000"/>
     <color name="selectorcolor" value="#06303240"/>
     <color name="toptemplatecolor" value="#000d0f16"/>
     <color name="transparent" value="#ff000000"/>
@@ -100,9 +100,9 @@
     <color name="un4a00a0a" value="#04a00a0a"/>
     <color name="uncccccc" value="#00cccccc"/>
     <color name="white" value="#00f0f0f0"/>
-    <color name="yellow" value="#00f9c731"/>
     <color name="yellowsoft" value="#00ccac68"/>
     <color name="yellowtransparent" value="#084b4b00"/>
+    <color name="yellow" value="#00f9c731"/>
   </colors>
   <parameters>
     <parameter name="AutomaticVolumeAdjustmentEntryList0" value="20,2,980,35"/>
@@ -118,8 +118,11 @@
     <parameter name="FcFileListName" value="68,2,1000,34"/>
     <parameter name="ImsSelectionListDescr" value="46,4,1000,45"/>
     <parameter name="ImsSelectionListLock" value="0,2,36,36"/>
+    <parameter name="PartnerBoxAllTimersBoxNameColor" value="#0060b0b0"/>
     <parameter name="PartnerBoxE2TimerIcon" value="4,6,30,30"/>
+    <parameter name="PartnerBoxE2TimerState" value="225,75,220,32"/>
     <parameter name="PartnerBoxE2TimerTime" value="4,73,300,35"/>
+    <parameter name="PartnerBoxEPGTimerBoxColor" value="#0060b0b0"/>
     <parameter name="PartnerBoxTimerName" value="40,4,35"/>
     <parameter name="PartnerBoxTimerServicename" value="4,40,35"/>
     <parameter name="VirtualKeyBoardShiftColors" value="0x00ffffff,0x00ffffff,0x0000ffff,0x00ff00ff"/>
@@ -136,27 +139,27 @@
     <color name="LabelForeground" color="foreground"/>
     <color name="ListboxBackground" color="background"/>
     <color name="ListboxForeground" color="foreground"/>
-    <color name="ListboxSelectedBackground" color="selectorcolor"/>
-    <color name="ListboxSelectedForeground" color="selectedFG"/>
-    <color name="ListboxMarkedBackground" color="un40a0aa0"/>
-    <color name="ListboxMarkedForeground" color="red"/>
     <color name="ListboxMarkedAndSelectedBackground" color="un4a00a0a"/>
     <color name="ListboxMarkedAndSelectedForeground" color="red"/>
-    <color name="WindowTitleForeground" color="foreground"/>
+    <color name="ListboxMarkedBackground" color="un40a0aa0"/>
+    <color name="ListboxMarkedForeground" color="red"/>
+    <color name="ListboxSelectedBackground" color="selectorcolor"/>
+    <color name="ListboxSelectedForeground" color="selectedFG"/>
     <color name="WindowTitleBackground" color="background"/>
+    <color name="WindowTitleForeground" color="foreground"/>
     <borderset name="bsWindow">
-      <pixmap filename="window/top_left_corner.png" pos="bpTopLeft"/>
-      <pixmap filename="window/top_edge.png" pos="bpTop"/>
-      <pixmap filename="window/top_right_corner.png" pos="bpTopRight"/>
+      <pixmap filename="window/bottom_edge.png" pos="bpBottom"/>
+      <pixmap filename="window/bottom_left_corner.png" pos="bpBottomLeft"/>
+      <pixmap filename="window/bottom_right_corner.png" pos="bpBottomRight"/>
       <pixmap filename="window/left_edge.png" pos="bpLeft"/>
       <pixmap filename="window/right_edge.png" pos="bpRight"/>
-      <pixmap filename="window/bottom_left_corner.png" pos="bpBottomLeft"/>
-      <pixmap filename="window/bottom_edge.png" pos="bpBottom"/>
-      <pixmap filename="window/bottom_right_corner.png" pos="bpBottomRight"/>
+      <pixmap filename="window/top_edge.png" pos="bpTop"/>
+      <pixmap filename="window/top_left_corner.png" pos="bpTopLeft"/>
+      <pixmap filename="window/top_right_corner.png" pos="bpTopRight"/>
     </borderset>
     <borderset name="bsListboxEntry">
-      <pixmap filename="border/line.png" pos="bpTop"/>
       <pixmap filename="border/line.png" pos="bpBottom"/>
+      <pixmap filename="border/line.png" pos="bpTop"/>
       <pixmap filename="border/vline.png" pos="bpLeft"/>
       <pixmap filename="border/vline.png" pos="bpRight"/>
     </borderset>
@@ -1740,15 +1743,11 @@
   <!-- TextBox -->
   <screen name="TextBox" title="Message" position="fill" flags="wfNoBorder">
     <panel name="PigTemplate"/>
-    <panel name="KeyExit"/>
     <widget name="text" position="780,105" size="1110,910" font="Regular;32"/>
-    <eLabel text="Leave message" position="251,1030" size="370,38" backgroundColor="secondBG" font="Regular;34" halign="left" transparent="1" zPosition="1"/>
   </screen>
   <screen name="TextBoxPigLess" title="Message" position="fill" flags="wfNoBorder">
     <panel name="BasicTemplate"/>
-    <panel name="KeyExit"/>
     <widget name="text" position="30,105" size="1860,910" font="Regular;24"/>
-    <eLabel text="Leave message" position="251,1030" size="370,38" backgroundColor="secondBG" font="Regular;34" halign="left" transparent="1" zPosition="1"/>
   </screen>
   <!-- MessageBox -->
   <screen name="MessageBox" title="Message" position="fill" flags="wfNoBorder">
